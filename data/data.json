@@ -1,0 +1,91 @@
+[
+  {
+    "type": "sedan",
+    "name": "Corolla",
+    "price": 19925,
+    "fuel": "gasoline",
+    "city": 31,
+    "highway": 40
+  },
+  {
+    "type": "hatchback",
+    "name": "Corolla",
+    "price": 20565,
+    "fuel": "gasoline",
+    "city": 30,
+    "highway": 38
+  },
+  {
+    "type": "sedan",
+    "name": "Corolla Hybrid",
+    "price": 23500,
+    "fuel": "gasoline",
+    "city": 53,
+    "highway": 52
+  },
+  {
+    "type": "hatchback",
+    "name": "Prius",
+    "price": 24525,
+    "fuel": "gasoline",
+    "city": 54,
+    "highway": 50
+  },
+  {
+    "type": "sedan",
+    "name": "Camry",
+    "price": 24970,
+    "fuel": "gasoline",
+    "city": 28,
+    "highway": 39
+  },
+  {
+    "type": "sedan",
+    "name": "Camry Hybrid",
+    "price": 27270,
+    "fuel": "gasoline",
+    "city": 51,
+    "highway": 53
+  },
+  {
+    "type": "sedan",
+    "name": "Avalon",
+    "price": 35875,
+    "fuel": "gasoline",
+    "city": 22,
+    "highway": 32
+  },
+  {
+    "type": "sedan",
+    "name": "Avalon Hybrid",
+    "price": 37000,
+    "fuel": "gasoline",
+    "city": 43,
+    "highway": 44
+  },
+  {
+    "type": "coupe",
+    "name": "GT86",
+    "price": 27060,
+    "fuel": "gasoline",
+    "city": 21,
+    "highway": 28
+  },
+  {
+    "type": "coupe",
+    "name": "Supra",
+    "price": 42990,
+    "fuel": "gasoline",
+    "city": 22,
+    "highway": 30
+  },
+  {
+    "type": "minivan",
+    "name": "Sienna",
+    "price": 34460,
+    "fuel": "gasoline",
+    "city": 36,
+    "highway": 36
+  }
+]
+
